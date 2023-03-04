@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "user": "Elon Reeve Musk",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://cdn.pixabay.com/photo/2016/09/20/18/47/face-1683128_960_720.png"
+  },
+  {
+    "id": 2,
+    "user": "Donald Trump",
+    "tweets": 553,
+    "followers": 1900,
+    "avatar": "https://cdn.pixabay.com/photo/2016/09/20/18/47/face-1683129_960_720.png"
+  },
+  {
+    "id": 3,
+    "user": "Lionel Messi",
+    "tweets": 800,
+    "followers": 1788010,
+    "avatar": "https://cdn.pixabay.com/photo/2016/09/20/19/00/face-1683155_960_720.png"
+  }
+]
